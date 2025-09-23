@@ -1,5 +1,6 @@
 # 🧑🏻‍🎓Students Exam Performance Overview
 Pencapaian akademik tidak hanya dipengaruhi dari kemampuan intelektual siswa saja, tetapi juga dari berbagai faktor eksternal seperti kondisi sosial, demografis, dan dukungan lingkungan. Faktor-faktor tersebut diyakini memiliki kontribusi yang nyata terhadap pencapaian nilai siswa. Pemahaman hubungan antara latar belakang siswa dengan performa akademik sangat diperlukan agar pihak sekolah atau institusi pendidikan dapat membuat kebijakan yang tepat sasaran. Visualisasi data dapat menjadi alat bantu yang efektif dalam menyajikan informasi secara ringkas, jelas, dan mudah dipahami oleh berbagai pihak.
+
 ---
 # 🚩 Rumusan Masalah
 - Bagaimana karakteristik sosial dan demografis siswa (gender, parental education, lunch type, test preparation) mempengaruhi performa akademik mereka?
