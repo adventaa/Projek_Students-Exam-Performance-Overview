@@ -21,6 +21,25 @@ Pencapaian akademik tidak hanya dipengaruhi dari kemampuan intelektual siswa saj
 ---
 # 📁 Dataset
 Kaggle: https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data 
+
 ---
 # 📊 Dashboard
 - Tableau: https://public.tableau.com/app/profile/dyah.adventa/viz/StudentsExamsPerformanceOverview/Dashboard1
+---
+# ⚙️ Tools & Library
+- Data Preprocessing (cek missing value dan duplicate data)
+- Jupyter Notebook
+- Data Visualization (Tableau)
+---
+# 🏁 Hasil (Insight)
+- Jumlah siswa perempuan dan laki-laki cukup seimbang.
+- Komposisi terbesar dari siswa yang berasal group C dan D, sementara group A dan E merupakan kelompok minoritas.
+- Siswa perempuan memiliki rata-rata nilai lebih tinggi di semua mata pelajaran dibandingkan siswa laki-laki, terlihat pada nilai reading dan writing.
+- Siswa yang mendapatkan makan siang standard memiliki rata-rata skor lebih tinggi dibandingkan siswa yang mendapatkan makan siang gratis.
+- Semakin tinggi tingkat pendidikan orang tua, semakin tinggi juga rata-rata nilai siswa. Siswa dengan orang tua bergelar master's degree dan bachelor's menunjukkan performa terbaik. Sehingga tingkat pendidikan orang tua dapat berpengaruh terhadap akademik siswa. Orang tua dengan pendidikan tinggi cenderung memiliki anak yang lebih berprestasi.
+- Siswa yang menyelesaikan test preparation course memiliki skor yang lebih tinggi. Perempuan yang mengikuti tes preparation mendapatkan nilai tertinggi, sementara laki-laki tanpa test preparation mendapatkan nilai terendah.
+---
+# ✨ Rekomendasi
+- Perluas akses program test preparation dengan menyediakan kursus persiapan ujian secara gratis atau menggabungkan materi test preparation ke dalam kurikulum sekolah reguler.
+- Peningkatan peran orang tua dalam pendidikan dengan cara sekolah dapat menyelenggarakan parenting education untuk membekali orang tua dalam mendukung anak belajar di rumah dan melakukan forum diskusi antar guru wali kelas dengan orang tua murid.
+- Penyediaan program nutrisi sekolah (school lunch program) ditujukan kepada pihak pemerintah pendidikan untuk menyediakan makan bergizi secara merata bagi siswa dari keluarga kurang mampu agar tidak tertinggal secara akademik.
