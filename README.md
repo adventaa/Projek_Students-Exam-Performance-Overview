@@ -44,4 +44,4 @@ Kaggle: https://www.kaggle.com/datasets/spscientist/students-performance-in-exam
 - Peningkatan peran orang tua dalam pendidikan dengan cara sekolah dapat menyelenggarakan parenting education untuk membekali orang tua dalam mendukung anak belajar di rumah dan melakukan forum diskusi antar guru wali kelas dengan orang tua murid.
 - Penyediaan program nutrisi sekolah (school lunch program) ditujukan kepada pihak pemerintah pendidikan untuk menyediakan makan bergizi secara merata bagi siswa dari keluarga kurang mampu agar tidak tertinggal secara akademik.
 
-https://github.com/adventaa/Projek_Students-Exam-Performance-Overview/blob/main/Image%201.png 
+[https://github.com/adventaa/Projek_Students-Exam-Performance-Overview/blob/main/Image%201.png ](https://github.com/adventaa/Projek_Students-Exam-Performance-Overview/blob/main/Image%202.png)
